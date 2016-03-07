@@ -1,0 +1,5 @@
+framework module FXForms {
+    umbrella header "FXForms.h"
+    export *
+    module * { export * }
+}
