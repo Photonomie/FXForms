@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		BED5C7201C8CFCCD00530969 /* FXForms.h in Headers */ = {isa = PBXBuildFile; fileRef = BED5C70F1C8CFC2300530969 /* FXForms.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BED8994F1C8E0B5900BD9D3F /* FXForms.m in Sources */ = {isa = PBXBuildFile; fileRef = BED5C7101C8CFC2300530969 /* FXForms.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -149,6 +150,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BED8994F1C8E0B5900BD9D3F /* FXForms.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
